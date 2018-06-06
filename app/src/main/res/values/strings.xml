@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Routes</string>
+    <string name="user_tab_title">USERS</string>
+    <string name="fema_tab_title">FEMA</string>
+    <string name="title_activity_user">UserActivity</string>
+</resources>

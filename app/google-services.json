@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "801466184553",
+    "firebase_url": "https://se-project-7028a.firebaseio.com",
+    "project_id": "se-project-7028a",
+    "storage_bucket": "se-project-7028a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801466184553:android:e38787ce1aee9bba",
+        "android_client_info": {
+          "package_name": "edu.andrews.kundani.routes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801466184553-5rsmc7kc32hp71ublfipq577b2fqutuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.andrews.kundani.routes",
+            "certificate_hash": "5d5bde7f5ead0afb2b23a40a248e82e36a211208"
+          }
+        },
+        {
+          "client_id": "801466184553-rqug5gocld9dg0iksfn28hpjaep0lgp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_FK4HSsfIFr5Pk365zZtPIbZVuw0w_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801466184553-rqug5gocld9dg0iksfn28hpjaep0lgp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
